@@ -1,7 +1,7 @@
 # Site settings
 title: Verbal
 description: Tu dosis diaria de léxico
-baseurl: "docs/"
+baseurl: "/verbal"
 url: ""
 language: es
 
